@@ -1,0 +1,71 @@
+══════════════════════════════════════════════════════════════════════════════
+                                                                              
+                    🌿 MRT ENERGY WEBSITE - COMPLETE PACKAGE 🌿                
+                                                                              
+                    SEND THIS FILE TO YOUR HOSTING COMPANY                    
+                                                                              
+══════════════════════════════════════════════════════════════════════════════
+
+
+DEAR HOSTING SUPPORT,
+
+Please upload this website to my domain. This is a complete static HTML website.
+
+WEBSITE TYPE: Static HTML (No database, No server-side code needed)
+TOTAL FILES: 4 files (HTML, CSS, JS, Logo image)
+TOTAL SIZE: ~115KB
+HOSTING REQUIREMENTS: Basic web hosting with HTML/CSS/JS support
+
+══════════════════════════════════════════════════════════════════════════════
+
+
+📁 CREATE THIS FOLDER STRUCTURE IN public_html/:
+
+public_html/
+│
+├── index.html              
+├── css/
+│   └── style.css          
+├── js/
+│   └── main.js            
+└── images/
+    └── mrt-logo.png       
+
+
+══════════════════════════════════════════════════════════════════════════════
+
+
+🔢 UPLOAD INSTRUCTIONS:
+
+STEP 1: Create three folders in public_html/:
+  - css
+  - js
+  - images
+
+STEP 2: Copy the code sections below and save as:
+  - public_html/index.html (FILE 1)
+  - public_html/css/style.css (FILE 2)
+  - public_html/js/main.js (FILE 3)
+  - public_html/images/mrt-logo.png (FILE 4 - logo image provided separately)
+
+STEP 3: Set file permissions (if needed):
+  - Folders: 755
+  - Files: 644
+
+STEP 4: Test at www.yourdomain.com
+
+
+══════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════
+
+
+█████████████████████████████████████████████████████████████████████████████
+█                                                                            █
+█   FILE 1: index.html                                                       █
+█   SAVE TO: public_html/index.html                                          █
+█                                                                            █
+█████████████████████████████████████████████████████████████████████████████
+
+
+═══ COPY EVERYTHING BELOW THIS LINE (FILE 1 STARTS) ════════════════════════
+

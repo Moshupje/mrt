@@ -1,0 +1,295 @@
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║         📦 MRT ENERGY - GET SOURCE CODE & TRANSFER GUIDE 📦        ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  📂 FILES YOU NEED (4 files total):                               │
+│                                                                    │
+│  ✅ index.html              (Main website page - 42KB)            │
+│  ✅ css/style.css           (All styling - 31KB)                  │
+│  ✅ js/main.js              (Interactive features - 18KB)         │
+│  ✅ images/mrt-logo.png     (Your logo - 23KB)                    │
+│                                                                    │
+│  TOTAL SIZE: ~115KB (Very small and fast!)                        │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║              🎯 CHOOSE YOUR METHOD (Pick One):                     ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  METHOD 1: I SHARE CODE HERE (EASIEST!) ⭐                        │
+│                                                                    │
+│  How it works:                                                    │
+│  1. You say: "Yes, please share the code"                         │
+│  2. I provide complete HTML, CSS, JS code                         │
+│  3. You copy each code block                                      │
+│  4. You paste into text editor (Notepad, VS Code, etc.)          │
+│  5. You save files with correct names                             │
+│  6. You upload to your hosting                                    │
+│                                                                    │
+│  ✅ No downloads needed                                           │
+│  ✅ Complete code ready to copy                                   │
+│  ✅ Easy to organize                                              │
+│  ✅ Perfect for beginners                                         │
+│                                                                    │
+│  👉 Just ask: "Please share the source code" 👈                  │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  METHOD 2: DOWNLOAD FROM WORKSPACE                                 │
+│                                                                    │
+│  How it works:                                                    │
+│  1. Look at left sidebar (file explorer)                          │
+│  2. Right-click each file                                         │
+│  3. Select "Download"                                             │
+│  4. Files save to your Downloads folder                           │
+│  5. Organize into proper folder structure                         │
+│  6. Upload to your hosting                                        │
+│                                                                    │
+│  Files to download:                                               │
+│  • index.html                                                     │
+│  • css/style.css (open css folder first)                          │
+│  • js/main.js (open js folder first)                              │
+│  • images/mrt-logo.png (open images folder first)                 │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  METHOD 3: VIEW SOURCE IN BROWSER                                  │
+│                                                                    │
+│  How it works:                                                    │
+│  1. Open website in browser                                       │
+│  2. Press Ctrl + U (View Source)                                  │
+│  3. Press Ctrl + S (Save)                                         │
+│  4. Save as index.html                                            │
+│  5. Repeat for CSS/JS via Developer Tools (F12)                   │
+│  6. Right-click logo → Save image                                 │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║           📤 UPLOADING TO YOUR HOSTING COMPANY:                    ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  OPTION A: cPanel (Most Common)                                    │
+│                                                                    │
+│  Step 1: Log into cPanel                                          │
+│          • Go to yourhostingcompany.com/cpanel                    │
+│          • Enter username and password                            │
+│                                                                    │
+│  Step 2: Open File Manager                                        │
+│          • Click "File Manager" icon                              │
+│          • Navigate to "public_html" folder                       │
+│                                                                    │
+│  Step 3: Create Folders                                           │
+│          • Click "New Folder" → name it "css"                     │
+│          • Click "New Folder" → name it "js"                      │
+│          • Click "New Folder" → name it "images"                  │
+│                                                                    │
+│  Step 4: Upload Files                                             │
+│          • Click "Upload" button                                  │
+│          • Upload index.html to public_html/                      │
+│          • Open css folder → upload style.css                     │
+│          • Open js folder → upload main.js                        │
+│          • Open images folder → upload mrt-logo.png               │
+│                                                                    │
+│  Step 5: Test!                                                    │
+│          • Visit: www.yourdomain.com                              │
+│          • Website should be live!                                │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  OPTION B: FTP (FileZilla)                                         │
+│                                                                    │
+│  Step 1: Get FTP Credentials from Hosting                         │
+│          • Host: ftp.yourdomain.com                               │
+│          • Username: [from hosting]                               │
+│          • Password: [from hosting]                               │
+│          • Port: 21                                               │
+│                                                                    │
+│  Step 2: Download FileZilla                                       │
+│          • Go to: filezilla-project.org                           │
+│          • Download free version                                  │
+│          • Install                                                │
+│                                                                    │
+│  Step 3: Connect                                                  │
+│          • Enter credentials in FileZilla                         │
+│          • Click "Quickconnect"                                   │
+│                                                                    │
+│  Step 4: Upload                                                   │
+│          • Left side = Your computer                              │
+│          • Right side = Server                                    │
+│          • Navigate to public_html on server                      │
+│          • Drag all files/folders from left to right              │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║              📁 FINAL FOLDER STRUCTURE ON SERVER:                  ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+    public_html/
+    │
+    ├── index.html
+    │
+    ├── css/
+    │   └── style.css
+    │
+    ├── js/
+    │   └── main.js
+    │
+    └── images/
+        └── mrt-logo.png
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                 🌐 YOUR WEBSITE WILL BE AT:                        ║
+║                                                                    ║
+║              https://www.yourdomain.com                            ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  ✅ AFTER UPLOAD - VERIFY THESE:                                  │
+│                                                                    │
+│  [ ] Website loads at www.yourdomain.com                          │
+│  [ ] MRT Energy logo displays                                     │
+│  [ ] All sections visible (scroll through page)                   │
+│  [ ] Navigation menu works                                        │
+│  [ ] Buttons and links work                                       │
+│  [ ] Mobile view works (test on phone)                            │
+│  [ ] Contact form displays                                        │
+│  [ ] Styling looks correct (colors, fonts, etc.)                  │
+│  [ ] Smooth scrolling works                                       │
+│  [ ] Footer displays at bottom                                    │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                    🔧 TROUBLESHOOTING:                             ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+
+Problem: Website shows only text (no colors/design)
+Solution: • Check css/style.css uploaded correctly
+          • Verify folder structure matches above
+          • Check file permissions (644 for files)
+
+Problem: Logo doesn't show
+Solution: • Check images/mrt-logo.png uploaded
+          • Verify file name matches exactly (case-sensitive)
+          • Check image path in index.html
+
+Problem: 404 Error / Page Not Found
+Solution: • index.html must be in public_html root
+          • Check you uploaded to correct folder
+          • Try: www.yourdomain.com/index.html
+
+Problem: JavaScript features not working
+Solution: • Check js/main.js uploaded correctly
+          • Open browser console (F12) for errors
+          • Clear browser cache (Ctrl + Shift + R)
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║              💬 EMAIL TEMPLATE FOR YOUR HOSTING:                   ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+Subject: Upload Website Files - Please Provide Details
+
+Dear [Hosting Support],
+
+I need to upload my company website files to my hosting account.
+
+Website: [yourdomain.com]
+
+Could you please provide:
+1. FTP credentials (host, username, password)
+2. Which folder should I upload to? (public_html?)
+3. cPanel access details
+4. Any specific instructions
+
+Website details:
+- Static HTML website (no database)
+- 4 files total (~115KB)
+- Files: HTML, CSS, JS, and logo image
+
+Thank you!
+
+[Your Name]
+[Your Contact Info]
+
+
+═══════════════════════════════════════════════════════════════════
+
+📚 MORE DETAILED HELP:
+
+  • DOWNLOAD_AND_TRANSFER_GUIDE.md - Complete detailed guide
+  • README.md - Technical documentation
+
+═══════════════════════════════════════════════════════════════════
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                  🎯 RECOMMENDED NEXT STEPS:                        ║
+║                                                                    ║
+║  1️⃣  Tell me: "Please share the source code"                     ║
+║       → I'll provide complete code to copy                        ║
+║                                                                    ║
+║  2️⃣  Save each code block as separate files                      ║
+║       → index.html, style.css, main.js, logo                      ║
+║                                                                    ║
+║  3️⃣  Upload to your hosting company                              ║
+║       → Use cPanel or FTP                                         ║
+║                                                                    ║
+║  4️⃣  Test at www.yourdomain.com                                  ║
+║       → Your website is LIVE! 🎉                                  ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+
+🌿 MRT Energy - Ready to Go Live on Your Domain! 🌿
+
+
+👉 TELL ME NOW: How would you like to get the files? 👈
+
+   A) "Share the source code here" (EASIEST)
+   B) "Help me download from workspace"
+   C) "Explain my hosting company's process"
